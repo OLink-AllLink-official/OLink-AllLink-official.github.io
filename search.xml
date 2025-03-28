@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>AI_tools</title>
+    <url>/2025/03/24/AI-tools/</url>
+    <content><![CDATA[<h1 id="AI模型概览及工具汇总"><a href="#AI模型概览及工具汇总" class="headerlink" title="AI模型概览及工具汇总"></a>AI模型概览及工具汇总</h1><p>阅读完这篇文章后，你应该浏览一下<a class="link" href="https://alllink-official.github.io/2024/10/24/Guidance/">指导<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>，了解我们博客的主要方面。</p>
+<h2 id="AI天花板"><a href="#AI天花板" class="headerlink" title="AI天花板"></a>AI天花板</h2><ol>
+<li><a class="link" href="https://chatgpt.com/">OpenAI ChatGPT<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://chatgpt.com/">https://chatgpt.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://claude.ai/">Anthropic Claude<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://claude.ai/">https://claude.ai/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://gemini.google.com/app">Google Gemini<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://gemini.google.com/app">https://gemini.google.com/app<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.meta.ai/">MetaAI llama<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.meta.ai/">https://www.meta.ai/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://copilot.microsoft.com/">Microsoft Copilot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://copilot.microsoft.com/">https://copilot.microsoft.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://x.ai/">xAI Grok<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://x.ai/">https://x.ai/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://chat.mistral.ai/chat">Mistral Le Chat<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://chat.mistral.ai/chat">https://chat.mistral.ai/chat<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://chatglm.cn/?lang=zh">ChatGLM（知谱清言）<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://chatglm.cn/?lang=zh">https://chatglm.cn/?lang=zh<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://xinghuo.xfyun.cn/">讯飞星火<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://xinghuo.xfyun.cn/">https://xinghuo.xfyun.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.tiangong.cn/">天工AI<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.tiangong.cn/">https://www.tiangong.cn/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://yiyan.baidu.com/">文心一言<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://yiyan.baidu.com/">https://yiyan.baidu.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.deepseek.com/">Deepseek<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.deepseek.com/">https://www.deepseek.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ol>
+<h2 id="AI集合工具"><a href="#AI集合工具" class="headerlink" title="AI集合工具"></a>AI集合工具</h2><blockquote>
+<p>所有工具均免费开源，无需考虑安全问题</p>
+</blockquote>
+<ol>
+<li>ChatAll <br><br>下载链接直达: <br><br>1.1. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-win-x64.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>1.2. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-mac-arm64.dmg">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>1.3. <a class="link" href="https://github.com/ai-shifu/ChatALL/releases/download/v1.83.108/ChatALL-1.83.108-linux-amd64.deb">Linux<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ol>
+<p>ChatAll, Chatbox, lobechat, cherry studio功能一样，都是集成各个AI于一体的软件，ChatAll最有用的功能就是可以同时和多个模型一起对话，不需要<br>每个模型分别对话，一次提问多模型同时作答。还有一个优点就是国内模型只需要登录即可使用，国外模型需要API调用。注意软件都支持中文，如果不适应英语，安装<br>时请选择简体中文。<br><img lazyload="" src="/images/loading.svg" data-src="/source/_posts/AITSum/AI1.png" alt="ChatAll"><br>内置模型如下，根据需要选择自己需要的（不适应安装时请选择中文）<br><img lazyload="" src="/images/loading.svg" data-src="/source/_posts/AITSum/AI2.png" alt="ChatAll"></p>
+<ol start="2">
+<li><p>Chatbox <br><br>下载链接直达 <br><br>2.1. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-Setup.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>2.2. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-arm64.dmg">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>2.3. <a class="link" href="https://github.com/Bin-Huang/chatbox/releases/download/v0.10.2/Chatbox.CE-0.10.2-amd64.deb">Linux<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>lobechat（Docker部署）<br></p>
+</li>
+</ol>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull lobehub/lobe-chat</span><br></pre></td></tr></table></figure></div>
+
+<ol start="4">
+<li><p>cherry studio <br><br>下载链接直达 <br><br>4.1. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-setup.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>4.2. <a class="link" href="https://github.com/kangfenmao/cherry-studio/releases/download/v0.8.23/Cherry-Studio-0.8.23-arm64.dmg">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br></p>
+</li>
+<li><p>LM studio <br><br>下载链接直达 <br><br>5.1. <a class="link" href="https://releases.lmstudio.ai/win32/x86/0.3.5/2/LM-Studio-0.3.5-Setup.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>5.2. <a class="link" href="https://releases.lmstudio.ai/darwin/arm64/0.3.5/2/LM-Studio-0.3.5-arm64.dmg">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>5.3. <a class="link" href="https://releases.lmstudio.ai/linux/x86/0.3.5/2/LM_Studio-0.3.5.AppImage">Linux<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ol>
+<p>LM studio, Ollama, AnythingLM, Chat with RTX均是下载开源模型，安装后，载入模型问答无需网络，全部在本地运行，所以对电脑性能有要求，其中<br>Ollama仅需CPU即可运行，Chat with RTX要求显存（GPU内存）≥8G才能使用。</p>
+<ol start="6">
+<li>Ollama <br><br>下载链接直达 <br><br>6.1. <a class="link" href="https://ollama.com/download/OllamaSetup.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>6.2. <a class="link" href="https://ollama.com/download/Ollama-darwin.zip">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>6.3. Linux:</li>
+</ol>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">curl -fsSL https://ollama.com/install.sh | sh</span><br></pre></td></tr></table></figure></div>
+
+<p>Ollama安装后在终端运行，没有用户界面（GUI），因为其他软件均在软件本体下载模型，而Ollama需要在<a class="link" href="https://ollama.com/search">官网<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>查看模型，<br>使用:</p>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ollama run 模型名</span><br></pre></td></tr></table></figure></div>
+<p>才能安装，例如安装llama3.3：</p>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">ollama run llama3.3</span><br></pre></td></tr></table></figure></div>
+
+<ol start="7">
+<li><p>AnythingLLM <br><br>下载链接直达 <br><br>7.1. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop.exe">Windows<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>7.2. <a class="link" href="https://s3.us-west-1.amazonaws.com/public.useanything.com/latest/AnythingLLMDesktop-Silicon.dmg">Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <br><br>7.3. <a class="link" href="https://docs.anythingllm.com/installation-desktop/linux#install-using-the-installer-script">Linux<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>NextChat<br>下载链接直达 <br><br><a class="link" href="https://github.com/ThinkInAIXYZ/deepchat/releases">Windows/Mac<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+<li><p>Chat with RTX（Nvidia英伟达显卡专属） <a class="link" href="https://us.download.nvidia.com/RTX/ChatWithRTX_Installer_9_24.zip">下载链接直达<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>APPs</category>
+        <category>Docker</category>
+      </categories>
+      <tags>
+        <tag>Guidance</tag>
+        <tag>AI</tag>
+        <tag>Deep Learning</tag>
+        <tag>Machine Learning</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Guidance</title>
+    <url>/2000/01/01/Guidance/</url>
+    <content><![CDATA[
+
+<h1>AllLink-official</h1>
+<h2>Hello everyone, welcome to our website!</h2>
+
+<p>We Focus on making everyone chat online without hindrance all over the world and study free.
+You can learn topics as following.</p>
+
+<ol>
+<li>Free VPN Software/Proxy Tools (mainly free software)</li>
+<li>Useful learning websites</li>
+<li>Study sources (PDF)</li>
+<li>AI/Machine Learning</li>
+<li>Computer Science (CS)</li>
+<li>Data Science (DS)</li>
+<li>Biology/Bioscience/Life Science/Medicine</li>
+<li>Chemistry</li>
+<li>Physics</li>
+<li>Mathematics</li>
+</ol>
+
+<blockquote>
+<p>Note:  allowed to be used for study; not allowed to be commercial</p>
+</blockquote>
+<h2 id="Our-blogs"><a href="#Our-blogs" class="headerlink" title="Our blogs"></a>Our blogs</h2><ul>
+<li><a class="link" href="https://01inkofficial.wordpress.com/">01ink<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://alllink-official.github.io/">AllLink-official<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://alllinkofficial.blogspot.com/">AllLink-official-blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://alllinkofficial.wordpress.com/">AllLinkofficial<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://olink-official.github.io/">OLink-official<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://olinkofficial.blogspot.com/">OLink-official-blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://olink0.wordpress.com/">oLink0<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://0link-official.blogspot.com/">0Link-official-blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://leefelyblog001.blogspot.com/">Lee Fely’s Blog<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://leefely.github.io/">Personal Website<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2>Follow us</h2>
+
+<ul>
+<li><a href="https://www.github.com/AllLink-official">Github</a></li>
+<li><a href="https://bitbucket.org/alllink-official/workspace/repositories">Bitbucket</a></li>
+<li><a href="https://huggingface.co/LeeFalcon">Hugging face</a></li>
+<li><a href="https://gitlab.com/alllink-official/AllLink-official">GitLab</a></li>
+<li><a href="https://gitea.com/AllLink-official">Gitea</a></li>
+<li><a href="https://www.reddit.com/user/FlashyAd1324/">Reddit</a></li>
+<li><a href="https://wwww.medium.com/@alllink-official/">Medium</a></li>
+<li><a href="https://www.quora.com/profile/OLink123">Quaro</a></li>
+<li><a href="https://www.threads.com/">Threads</a></li>
+<li><a href="https://www.x.com/FeeLee35027?s=09/">X/Twitter</a></li>
+<li><a href="https://www.facebook.com/">Facebook</a></li>
+<li><a href="https://www.vk.com/">VK</a></li>
+<li><a href="https://www.instagram/">Instagram</a></li>
+<li><a href="https://www.youtube.com/@AllLinkofficial">Youtube</a></li>
+<li><a href="https://www.tumblr.com/">Tumblr</a></li>
+<li><a href="https://www.tiktok.com/">Tiktok</a></li>
+<li><a href="https://www.kwai.com/">Kwai</a></li>
+<li><a href="https://www.likee.com/">Likee</a></li>
+<li><a href="https://www.snapchat.com/">Snapchat</a></li>
+<li><a href="https://www.whee.com/">Whee</a></li>
+<li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+<li><a href="https://www.lemon8.com/">Lemon8</a></li>
+</ul>
+
+<h2>Contact us</h2>
+
+<ul>
+<li><a href="mailto: lfazwf123@gmail.com">GMail</a></li>
+<li><a href="mailto: leefely714@outlook.com">Outlook</a></li>
+<li><a href="mailto: leefely0714@protonmail.me">Proton mail</a></li>
+<li><a href="mailto: lifei20000714@foxmail.com">Foxmail</a></li>
+<li><a href="mailto: 1292225683@qqmail.com">QQmail</a></li>
+<li><a href="https://t.me/alllinkofficial/">Telegram</a></li>
+<li><a href="https://www.webex.com/">Webex</a></li>
+<li><a href="https://chat.whatsapp.com/">WhatsApp</a></li>
+<li><a href="https://www.message.com/">Messager</a></li>
+<li><a href="https://teams.live.com/l/invite/">Microsoft Teams</a></li>
+<li><a href="https://www.groupme.com/">Group Me</a></li>
+<li><a href="https://www.discord.com/invite/">Discord</a></li>
+<li><a href="https://join.slack.com/t/">Slack</a></li>
+<li><a href="https://line.me/">LINE</a></li>
+</ul>
+
+<h2>QR</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>QQ</th>
+      <th>WeChat</th>
+      <th>WeCom</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img lazyload="" src="/images/loading.svg" data-src="../img/qq.png" alt="QQ"></td> 
+      <td><img lazyload="" src="/images/loading.svg" data-src="../img/wechat.png" alt="WeChat"></td>
+      <td><img lazyload="" src="/images/loading.svg" data-src="../img/wecom.png" alt="WeCom"></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><a class="link" href="https://alllink-official.github.io/2024/10/24/SponsorMe/">赞助我<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<details class="[Red]" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>[Warning] </summary>
+              <div class="content">
+              <p>Note:  allowed to be used for study; not allowed to be commercial</p>
+              </div>
+            </details>
+
+]]></content>
+      <categories>
+        <category>Guidance</category>
+      </categories>
+      <tags>
+        <tag>Guidance</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>proxy_tools</title>
+    <url>/2025/03/24/proxy-tools/</url>
+    <content><![CDATA[<h1 id="Proxy-Tools"><a href="#Proxy-Tools" class="headerlink" title="Proxy Tools"></a>Proxy Tools</h1><p>After reading this post, we strongly recommend you read <a href="">Guidance</a> to understand our purpose.</p>
+<p>Due to the policies of some countries or regions, many people cannot search associated-content by Google/Youtube for studying, therefor we list mainly useful APP to achive it. We summarize the APP(Android, iOS/iPadOS/MacOS, Windows, Linux) and provide you links. Because of open sources, they’re very safe.</p>
+<h2 id="Android"><a href="#Android" class="headerlink" title="Android"></a>Android</h2><ul>
+<li>V2RayNG <a class="link" href="https://github.com/2dust/v2rayNG/releases/latest">https://github.com/2dust/v2rayNG/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash for Android <a class="link" href="https://github.com/clashdownload/Clash_for_Android/releases/download/2.5.12/cfa-2.5.12-premium-universal-release.apk">https://github.com/clashdownload/Clash_for_Android/releases/download/2.5.12/cfa-2.5.12-premium-universal-release.apk<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases/latest">https://github.com/hiddify/hiddify-app/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases/latest">https://github.com/SagerNet/sing-box/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Nekobox <a class="link" href="https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest">https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ClashMeta for Android <a class="link" href="https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest">https://github.com/MetaCubeX/ClashMetaForAndroid/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases/latest">https://github.com/chen08209/FlClash/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Surfboard <a class="link" href="https://github.com/getsurfboard/surfboard/releases/latest">https://github.com/getsurfboard/surfboard/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>HiddifyNG <a class="link" href="https://github.com/hiddify/HiddifyNG/releases/latest">https://github.com/hiddify/HiddifyNG/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Karing <a class="link" href="https://github.com/KaringX/karing/releases/latest">https://github.com/KaringX/karing/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Shadowsocks-android <a class="link" href="https://github.com/shadowsocks/shadowsocks-android/releases/latest">https://github.com/shadowsocks/shadowsocks-android/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Trojan <a class="link" href="https://play.google.com/store/apps/details?id=com.crosserr.trojan&pcampaignid=web_share">https://play.google.com/store/apps/details?id=com.crosserr.trojan&amp;pcampaignid=web_share<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases/latest/latest">https://github.com/XX-net/XX-Net/releases/latest/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases/latest">https://github.com/MerlinKodo/clash-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases/latest">https://github.com/MetaCubeX/mihomo/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases/latest">https://github.com/v2fly/v2ray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases/latest">https://github.com/XTLS/Xray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>shadowsocksr-v2ray-trojan-android <a class="link" href="https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases/latest">https://github.com/xxf098/shadowsocksr-v2ray-trojan-android/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ShadowShare <a class="link" href="https://github.com/Pawdroid/ShadowShare/releases/latest">https://github.com/Pawdroid/ShadowShare/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Shadowrocketx- <a class="link" href="https://github.com/crosserR/Shadowrocketx-/releases/latest">https://github.com/crosserR/Shadowrocketx-/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2 id="iOS-iPadOS-MacOS"><a href="#iOS-iPadOS-MacOS" class="headerlink" title="iOS/iPadOS/MacOS"></a>iOS/iPadOS/MacOS</h2><ul>
+<li>ClashX <a class="link" href="https://github.com/alvincrisuy/clashX/releases/latest">https://github.com/alvincrisuy/clashX/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash for Windows <a class="link" href="https://www.clashforwindows.net/clash-for-windows-download/">https://www.clashforwindows.net/clash-for-windows-download/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>karing (App Store)</li>
+<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases/latest">https://github.com/SagerNet/sing-box/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Hiddify (App Store)</li>
+<li>Quantumult-X (App Store)</li>
+<li>Surge (App Store)</li>
+<li>Loon (App Store)</li>
+<li>Shadowrocket (App Store)</li>
+<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases/latest">https://github.com/clash-verge-rev/clash-verge-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases/latest">https://github.com/chen08209/FlClash/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases/latest">https://github.com/libnyanpasu/clash-nyanpasu/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases/latest">https://github.com/hiddify/hiddify-app/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases/latest">https://github.com/zzzgydi/clash-verge/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases/latest">https://github.com/XX-net/XX-Net/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases/latest">https://github.com/v2fly/v2ray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases/latest">https://github.com/XTLS/Xray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2RayU <a class="link" href="https://github.com/yanue/V2rayU/releases/latest">https://github.com/yanue/V2rayU/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases/latest">https://github.com/Qv2ray/Qv2ray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ShadowsocksX-NG <a class="link" href="https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest">https://github.com/shadowsocks/ShadowsocksX-NG/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases/latest">https://github.com/trojan-gfw/trojan/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Mihomo-party <a class="link" href="https://github.com/mihomo-party-org/mihomo-party/releases/latest">https://github.com/mihomo-party-org/mihomo-party/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><ul>
+<li>V2RayN <a class="link" href="https://github.com/2dust/v2rayN/releases/latest">https://github.com/2dust/v2rayN/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ClashN <a class="link" href="https://github.com/2dust/clashN/releases/latest">https://github.com/2dust/clashN/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash for Windows <a class="link" href="https://www.clashforwindows.net/clash-for-windows-download/">https://www.clashforwindows.net/clash-for-windows-download/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases/latest">https://github.com/zzzgydi/clash-verge/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases/latest">https://github.com/clash-verge-rev/clash-verge-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Meta for Windows Mini <a class="link" href="https://github.com/kogekiplay/ClashMetaForWindows_Mini//latest">https://github.com/kogekiplay/ClashMetaForWindows_Mini//latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clashr-Auto Desktop <a class="link" href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/latest">https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases/latest">https://github.com/hiddify/hiddify-app/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ClashPro <a class="link" href="https://github.com/xyzbubu/ClashPro/releases/latest">https://github.com/xyzbubu/ClashPro/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases/latest">https://github.com/SagerNet/sing-box/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases/latest">https://github.com/chen08209/FlClash/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Karing <a class="link" href="https://github.com/KaringX/karing/releases/latest">https://github.com/KaringX/karing/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases/latest">https://github.com/libnyanpasu/clash-nyanpasu/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2RayA <a class="link" href="https://github.com/v2rayA/v2rayA/releases/latest">https://github.com/v2rayA/v2rayA/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases/latest">https://github.com/XX-net/XX-Net/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases/latest">https://github.com/MerlinKodo/clash-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases/latest">https://github.com/MetaCubeX/mihomo/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases/latest">https://github.com/v2fly/v2ray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases/latest">https://github.com/XTLS/Xray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Shadowsocks-windows <a class="link" href="https://github.com/shadowsocks/shadowsocks-windows/releases/latest">https://github.com/shadowsocks/shadowsocks-windows/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases/latest">https://github.com/Qv2ray/Qv2ray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>xray <a class="link" href="https://github.com/chaitin/xray/releases/latest">https://github.com/chaitin/xray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>WinXray <a class="link" href="https://github.com/TheMRLL/WinXray/releases/latest">https://github.com/TheMRLL/WinXray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases/latest">https://github.com/trojan-gfw/trojan/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>trojan-go <a class="link" href="https://github.com/p4gefau1t/trojan-go/releases/latest">https://github.com/p4gefau1t/trojan-go/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>x-ui <a class="link" href="https://github.com/MHSanaei/3x-ui/releases/latest">https://github.com/MHSanaei/3x-ui/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Mihomo-party <a class="link" href="https://github.com/mihomo-party-org/mihomo-party/releases/latest">https://github.com/mihomo-party-org/mihomo-party/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h2><ul>
+<li>V2RayN <a class="link" href="https://github.com/2dust/v2rayN/releases/latest">https://github.com/2dust/v2rayN/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash for windows <a class="link" href="https://www.clashforwindows.net/clash-for-windows-download/">https://www.clashforwindows.net/clash-for-windows-download/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>sing-box <a class="link" href="https://github.com/SagerNet/sing-box/releases/latest">https://github.com/SagerNet/sing-box/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Verge Rev <a class="link" href="https://github.com/clash-verge-rev/clash-verge-rev/releases/latest">https://github.com/clash-verge-rev/clash-verge-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>FlClash <a class="link" href="https://github.com/chen08209/FlClash/releases/latest">https://github.com/chen08209/FlClash/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clashr-Auto Desktop <a class="link" href="https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/latest">https://github.com/ClashrAuto/Clashr-Auto-Desktop/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Nyanpasu <a class="link" href="https://github.com/libnyanpasu/clash-nyanpasu/releases/latest">https://github.com/libnyanpasu/clash-nyanpasu/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Hiddify <a class="link" href="https://github.com/hiddify/hiddify-app/releases/latest">https://github.com/hiddify/hiddify-app/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Clash Verge <a class="link" href="https://github.com/zzzgydi/clash-verge/releases//latest">https://github.com/zzzgydi/clash-verge/releases//latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2RayA <a class="link" href="https://github.com/v2rayA/v2rayA/releases/latest">https://github.com/v2rayA/v2rayA/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>XX-Net <a class="link" href="https://github.com/XX-net/XX-Net/releases/latest">https://github.com/XX-net/XX-Net/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>ProxySU <a class="link" href="https://github.com/proxysu/ProxySU/releases/latest">https://github.com/proxysu/ProxySU/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>clash-rev <a class="link" href="https://github.com/MerlinKodo/clash-rev/releases/latest">https://github.com/MerlinKodo/clash-rev/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>mihomo <a class="link" href="https://github.com/MetaCubeX/mihomo/releases/latest">https://github.com/MetaCubeX/mihomo/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>V2ray-core <a class="link" href="https://github.com/v2fly/v2ray-core/releases/latest">https://github.com/v2fly/v2ray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Xray-core <a class="link" href="https://github.com/XTLS/Xray-core/releases/latest">https://github.com/XTLS/Xray-core/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>v2ray <a class="link" href="https://github.com/233boy/v2ray/releases/latest">https://github.com/233boy/v2ray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Qv2ray <a class="link" href="https://github.com/Qv2ray/Qv2ray/releases/latest">https://github.com/Qv2ray/Qv2ray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>xray <a class="link" href="https://github.com/chaitin/xray/releases/latest">https://github.com/chaitin/xray/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>v2rayL <a class="link" href="https://github.com/jiangxufeng/v2rayL/releases/latest">https://github.com/jiangxufeng/v2rayL/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Trojan <a class="link" href="https://github.com/trojan-gfw/trojan/releases/latest">https://github.com/trojan-gfw/trojan/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Trojan-new <a class="link" href="https://github.com/Jrohy/trojan/releases/latest">https://github.com/Jrohy/trojan/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>trojan-go <a class="link" href="https://github.com/p4gefau1t/trojan-go/releases/latest">https://github.com/p4gefau1t/trojan-go/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>x-ui <a class="link" href="https://github.com/MHSanaei/3x-ui/releases/latest">https://github.com/MHSanaei/3x-ui/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li>Mihomo-party <a class="link" href="https://github.com/mihomo-party-org/mihomo-party/releases/latest">https://github.com/mihomo-party-org/mihomo-party/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2 id="Soft-Router-软路由"><a href="#Soft-Router-软路由" class="headerlink" title="Soft Router/软路由"></a>Soft Router/软路由</h2><p>The soft router refers to a software-based router that uses regular computer hardware and software to perform routing tasks, as opposed to hardware-based routers which are dedicated devices designed specifically for network routing.</p>
+<h3 id="Serials"><a href="#Serials" class="headerlink" title="Serials"></a>Serials</h3><ol>
+<li><a class="link" href="https://github.com/openwrt/openwrt/releases/latest">OpenWrt<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://github.com/openwrt/openwrt/releases/latest">https://github.com/openwrt/openwrt/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://github.com/istoreos/istoreos/releases/latest">iStoreOS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://github.com/istoreos/istoreos/releases/latest">https://github.com/istoreos/istoreos/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.ikuai8.com/component/download">iKuai<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.ikuai8.com/component/download">https://www.ikuai8.com/component/download<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ol>
+<h3 id="proxy-plugins"><a href="#proxy-plugins" class="headerlink" title="proxy plugins"></a>proxy plugins</h3><ul>
+<li><a class="link" href="https://github.com/vernesong/OpenClash/releases/latest">openClash<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://github.com/vernesong/OpenClash/releases/latest">https://github.com/vernesong/OpenClash/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://github.com/xiaorouji/openwrt-passwall/releases/latest">passwall<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://github.com/xiaorouji/openwrt-passwall/releases/latest">https://github.com/xiaorouji/openwrt-passwall/releases/latest<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h2 id="browser-extensions"><a href="#browser-extensions" class="headerlink" title="browser extensions"></a>browser extensions</h2><ul>
+<li><a class="link" href="https://jegocloud.com/">Jego/无忧行<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><blockquote>
+<p>是一款 Edge 和 Chrome 的插件，安装此插件允许免费用户访问谷歌服务、微软Copilot和ChatGPT等服务。请注意仅有谷歌搜索和谷歌学习，例如Youtube等娱乐工具是无法访问的，官网也说了免费用户提供学术服务，付费用户可以解锁Youtube等娱乐网站，满足了很大一批用户的需求，对于国内的ip封锁，严重影响了科研人员检索文献的需求，因此，这款免费的插件真的十分良心，有喜欢的赶紧去体验一下吧。其插件需要注册才能使用，但是不要害怕，因为不需要邮箱📧验证，因此随便编一个邮箱即可，付费用户除外。</p>
+</blockquote>
+</li>
+</ul>
+<h2 id="Docker"><a href="#Docker" class="headerlink" title="Docker"></a>Docker</h2><h3 id="Clash-serials"><a href="#Clash-serials" class="headerlink" title="Clash serials"></a>Clash serials</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull dreamacro/clash</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull haishanh/yacd</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull dreamacro/clash-premium</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull asdlokj1qpi23/subconverter</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull metacubex/clash-meta</span><br></pre></td></tr></table></figure></div>
+<h3 id="v2ray-serials"><a href="#v2ray-serials" class="headerlink" title="v2ray serials"></a>v2ray serials</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull v2ray/official</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull teddysun/v2ray</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull zydou/v2ray</span><br></pre></td></tr></table></figure></div>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull jrohy/v2ray</span><br></pre></td></tr></table></figure></div>
+<h3 id="sing-box"><a href="#sing-box" class="headerlink" title="sing-box"></a>sing-box</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull gzxhwq/sing-box</span><br></pre></td></tr></table></figure></div>
+<h3 id="Hiddify"><a href="#Hiddify" class="headerlink" title="Hiddify"></a>Hiddify</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">docker pull handei/hiddify</span><br></pre></td></tr></table></figure></div>
+
+<h2 id="Apple-ID-美区"><a href="#Apple-ID-美区" class="headerlink" title="Apple ID/美区"></a>Apple ID/美区</h2><p>非常简单，首先注册你所在国家或地区的 Apple 账号，然后在账号信息中修改成美国地址即可，可以用美国地址生成器完成。</p>
+<h2 id="Google-ID-谷歌账户"><a href="#Google-ID-谷歌账户" class="headerlink" title="Google ID/谷歌账户"></a>Google ID/谷歌账户</h2><p>使用纯净一点的节点即可无法手机验证码即可注册成功。</p>
+<h2 id="AOSP-based-ROM-类原生"><a href="#AOSP-based-ROM-类原生" class="headerlink" title="AOSP-based ROM/类原生"></a>AOSP-based ROM/类原生</h2><p>对于使用 Android 手机的用户，国产 OS 内置大量广告以及反诈骗 APP，十分影响体验，因此可以刷入基于 AOSP 制作的类原生 OS，没有广告且不臃肿，比较有名的有:</p>
+<ul>
+<li><a class="link" href="https://get.pixelexperience.org/">Pixel Experience<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://get.pixelexperience.org/">https://get.pixelexperience.org/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://lineageos.org/">Lineage OS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://lineageos.org/">https://lineageos.org/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://chriscatto.gitlab.io/AresOS/">Ares OS<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://chriscatto.gitlab.io/AresOS/">https://chriscatto.gitlab.io/AresOS/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://crdroid.net/">CrDroid<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://crdroid.net/">https://crdroid.net/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<p>等等。鉴于国家政策，多数厂商关闭了 BL 解锁通道，目前仅有 OnePlus 用户可以轻松解锁 BootLoader 进行刷机操作，其他品牌均有各种问题，需要说明的是三星解锁 Bl 很简单，但是不能 root，有熔断机制。因此如果你有搞机需求，国产手机仅有 oneplus 还可以，国外品牌就很轻松了，Google Pixel，Samsung，Sony 均没有限制，其中 Google Pixel 的 ROM 最多。</p>
+<h2 id="Google-Play"><a href="#Google-Play" class="headerlink" title="Google Play"></a>Google Play</h2><h3 id="Google-Play-APK"><a href="#Google-Play-APK" class="headerlink" title="Google Play APK"></a>Google Play APK</h3><p>最新的国产Android系统内置Google服务，请注意，华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)没有，但是可以使用其他开源项目来调用GMS，稍后会讲。在设置中有Google开关选项，唯有Google Play Store需要手动安装，安装包可以通过以下链接下载（无需魔法访问）：</p>
+<ul>
+<li><a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">TechSpot<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.techspot.com/downloads/6105-google-play-store.html">https://www.techspot.com/downloads/6105-google-play-store.html<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://apkshki.cn.com/app/google-play-store">APKSHKI<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://apkshki.cn.com/app/google-play-store">https://apkshki.cn.com/app/google-play-store<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://google-play.fileplanet.com/apk">FilePlanet<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://google-play.fileplanet.com/apk">https://google-play.fileplanet.com/apk<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">Softpedia<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://mobile.softpedia.com/apk/google-play-store/">https://mobile.softpedia.com/apk/google-play-store/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h3 id="Other-APP-Store"><a href="#Other-APP-Store" class="headerlink" title="Other APP Store"></a>Other APP Store</h3><p>当然，除了下载Play Store安装App，也有一些不依赖Google服务的应用商店，可以无需Google账号即可下载App，这些平台**「非」**华为Harmony Next系统手机也可安装使用：</p>
+<ul>
+<li><a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">Aurora Store<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://f-droid.org/en/packages/com.aurora.store/">https://f-droid.org/en/packages/com.aurora.store/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://uptodown-android.cn.uptodown.com/android">uptodown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://uptodown-android.cn.uptodown.com/android">https://uptodown-android.cn.uptodown.com/android<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">Amazon App Store<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.amazon.com/gp/mas/get/amazonapp">https://www.amazon.com/gp/mas/get/amazonapp<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<p>除此之外，还有一些网站（需要魔法）也可以之间下载apk文件（安卓APP安装包）：</p>
+<ul>
+<li><a class="link" href="https://www.apkmirror.com/">APKmirror<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://www.apkmirror.com/">https://www.apkmirror.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://apkcombo.com/">APKCombo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://apkcombo.com/">https://apkcombo.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://google-play.en.uptodown.com/">Uptodown<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> <a class="link" href="https://google-play.en.uptodown.com/">https://google-play.en.uptodown.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ul>
+<h3 id="MicroG"><a href="#MicroG" class="headerlink" title="MicroG"></a>MicroG</h3><p>华为安卓鸿蒙系统(version ≤ HarmonyOS4.2)可以安装MicroG来替代GMS，不过华为手机无法安装Play Store或者说有办法安装，但是不能更新系统，一更新就不能用了，就得重新安装，并且安装非常麻烦，所以推荐大家使用MicroG+第三方App Store。MicroG作为开源程序，安全性可以得到保障，据说华为欧洲也在积极适配。</p>
+<p>MicroG所需要的安装包<a class="link" href="https://microg.org/download.html">项目主页<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>均已提供，另外华为应用市场非国区也可下载：华为应用商店→我的→设置→国家/地区→选择的其他国家→输入账号密码验证→下载MicroG Companion和MicroG Server→打开手机设置-应用和服务-应用管理→打开MicroG服务APP详情页面→点击右上角齿轮→点击自我检查→添加Google账号，完成后即可使用。</p>
+<h1 id="VPN-Provider-机场"><a href="#VPN-Provider-机场" class="headerlink" title="VPN Provider/机场"></a>VPN Provider/机场</h1><h2 id="机场众多，勿买廉价节点"><a href="#机场众多，勿买廉价节点" class="headerlink" title="机场众多，勿买廉价节点"></a>机场众多，勿买廉价节点</h2><p>可选择的机场很多，但也不乏有几元/月的节点，这些机场存在安全风险，请慎重考虑。价格高的机场拥有更好的速度与服务，如果不愿意在此方面花销太多，可以选择免费的节点，它们多源于博主的分享，在此不予分享，请自行检索。接下来为大家推荐几个经典老牌机场，他们经营多年，跑路风险相对较低。</p>
+<h2 id="收费机场推荐"><a href="#收费机场推荐" class="headerlink" title="收费机场推荐"></a>收费机场推荐</h2><ol>
+<li><a class="link" href="https://juziyun996.xyz/auth/register?code=HmUU">桔子云<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.nicecloud.ink/register?aff=uIZATVIk">NiceCloud<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://www.ikuajings.com/auth/register?code=isH2">跨境Cloud<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://jikeq87.xyz/auth/register?code=T2o4">极客云<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://portal.dc-site5.com/#/register?code=nTu25MIJ">DuangCloud<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+<li><a class="link" href="https://shuttle.gt-all.com/aff.php?aff=10426">Gatern<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></li>
+</ol>
+<blockquote>
+<p>再次提醒，机场用于学习用途最佳，娱乐要求不高的没必要付费，保持高度理智，不要被某些言论误导，要有自己的意志。爱国，爱家人，爱自己。</p>
+</blockquote>
+]]></content>
+      <categories>
+        <category>APPs</category>
+        <category>Docker</category>
+        <category>VM</category>
+      </categories>
+      <tags>
+        <tag>Guidance</tag>
+        <tag>Proxy</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>sponsor_me</title>
+    <url>/2024/03/24/sponsor-me/</url>
+    <content><![CDATA[<h1 id="sponsor-me"><a href="#sponsor-me" class="headerlink" title="sponsor_me"></a>sponsor_me</h1><h2 id="For-Chinese"><a href="#For-Chinese" class="headerlink" title="For Chinese"></a>For Chinese</h2><h3 id="Wechat-微信"><a href="#Wechat-微信" class="headerlink" title="Wechat/微信"></a>Wechat/微信</h3><p><img lazyload="" src="/images/loading.svg" data-src="https://github.com/LeeFely/LeeFely/blob/main/MyPi/Wechat.png" alt="WeChat Pay"><br>如果图片不显示，点击<a class="link" href="https://gitee.com/lee-felix/sponsr/raw/master/WeChatPay.png">链接直达<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">https://gitee.com/lee-felix/sponsr/raw/master/WeChatPay.png</span><br></pre></td></tr></table></figure></div>
+<h3 id="AliPay-支付宝"><a href="#AliPay-支付宝" class="headerlink" title="AliPay/支付宝"></a>AliPay/支付宝</h3><p><img lazyload="" src="/images/loading.svg" data-src="https://github.com/LeeFely/LeeFely/blob/main/MyPi/AliPay.jpg" alt="AliPay"><br>如果图片不显示，点击<a class="link" href="https://gitee.com/lee-felix/sponsr/blob/master/AliPay.jpg">链接直达<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="code"><pre><span class="line">https://gitee.com/lee-felix/sponsr/blob/master/AliPay.jpg</span><br></pre></td></tr></table></figure></div>
+<h2 id="For-everyone"><a href="#For-everyone" class="headerlink" title="For everyone"></a>For everyone</h2><h3 id="Patreon"><a href="#Patreon" class="headerlink" title="Patreon"></a>Patreon</h3><p><a class="link" href="https://patreon.com/alllinkofficial?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink">Direct link<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
+<p><a class="link" href="https://www.patreon.com/bePatron?u=152519128" data-patreon-widget-type="become-patron-button">Become a member!<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a><script async="" src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+<h3 id="ko-fi"><a href="#ko-fi" class="headerlink" title="ko-fi"></a>ko-fi</h3><p><a href="https://ko-fi.com/alllinkofficial"><img lazyload="" src="/images/loading.svg" data-src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a></p>
+<h3 id="Wise"><a href="#Wise" class="headerlink" title="Wise"></a>Wise</h3><p>Coming soon…</p>
+<h3 id="PayPal"><a href="#PayPal" class="headerlink" title="PayPal"></a>PayPal</h3><p>Coming soon…</p>
+<h3 id="Apple-Pay"><a href="#Apple-Pay" class="headerlink" title="Apple Pay"></a>Apple Pay</h3><p>Coming soon…</p>
+<h3 id="Google-Pay"><a href="#Google-Pay" class="headerlink" title="Google Pay"></a>Google Pay</h3><p>Invaid way now.</p>
+<h3 id="Cash-APP-Pay"><a href="#Cash-APP-Pay" class="headerlink" title="Cash APP Pay"></a>Cash APP Pay</h3><p>Coming soon…</p>
+]]></content>
+      <categories>
+        <category>Guidance</category>
+      </categories>
+      <tags>
+        <tag>Guidance</tag>
+        <tag>Sponsor</tag>
+      </tags>
+  </entry>
+</search>
